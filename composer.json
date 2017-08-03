@@ -1,6 +1,6 @@
 {
-    "name": "dgmon/social",
-    "description": "Social plugin for picachoo",
+    "name": "henzard/communicator",
+    "description": "Communication system for picahoo systems",
     "authors": [
         {
             "name": "William Gourley",

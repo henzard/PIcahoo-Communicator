@@ -1,0 +1,12 @@
+{
+    "name": "dgmon/social",
+    "description": "Social plugin for picachoo",
+    "authors": [
+        {
+            "name": "William Gourley",
+            "email": "dgmon.mail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

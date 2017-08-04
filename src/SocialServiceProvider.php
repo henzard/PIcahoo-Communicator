@@ -1,10 +1,10 @@
 <?php
 
-namespace Honin\Social;
+namespace Picahoo\Communicator;
 
 use Illuminate\Support\ServiceProvider;
 
-class SocialServiceProvider extends ServiceProvider
+class CommunicatorServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
@@ -23,8 +23,8 @@ class SocialServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->bind('honin-social', function(){
-            return new Social();
+        $this->app->bind('picahoo-communicator', function(){
+            return new Communicator();
         });
     }
 }

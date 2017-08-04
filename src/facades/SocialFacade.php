@@ -1,11 +1,11 @@
 <?php
 
-namespace honin\social\facades;
+namespace Picahoo\Communicator\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class SocialFacade extends Facade{
+class CommunicatorFacade extends Facade{
 	protected static function getFacadeAccessor(){
-		return "honin-social";
+		return "picahoo-communicator";
 	}
 }

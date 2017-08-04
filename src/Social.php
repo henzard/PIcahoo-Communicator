@@ -1,8 +1,8 @@
 <?php
 
-namespace Honin\Social;
+namespace Picahoo\Communicator;
 use Session;
-class Social{
+class Communicator{
 
 
 	// Login function returns token on sucsess

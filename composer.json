@@ -23,7 +23,7 @@
         },
         "laravel": {
             "aliases": {
-                "Picahoo": "Picahoo\\\Communicator\\Facades\\CommunicatorFacade"
+                "Picahoo": "Picahoo\\Communicator\\Facades\\CommunicatorFacade"
             },
             "providers": [
                 "Picahoo\\Communicator\\CommunicatorServiceProvider"

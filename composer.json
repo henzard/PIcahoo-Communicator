@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "5.1.*"
+        "laravel/framework": "5.*"
     },
     "autoload": {
         "classmap": [
